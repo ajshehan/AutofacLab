@@ -1,1 +1,2 @@
 I:\GitRepository\AutofacLab\AutofacLab\AutofacLab\bin\Debug\AutofacLab.exe.config
+I:\SourceControl\Projects\autofacsameple\AutofacLab\AutofacLab\bin\Debug\AutofacLab.exe.config
