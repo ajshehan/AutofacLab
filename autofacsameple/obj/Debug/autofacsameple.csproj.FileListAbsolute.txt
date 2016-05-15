@@ -1,0 +1,8 @@
+I:\SourceControl\Projects\autofacsameple\autofacsameple\bin\Debug\autofacsameple.exe.config
+I:\SourceControl\Projects\autofacsameple\autofacsameple\bin\Debug\autofacsameple.exe
+I:\SourceControl\Projects\autofacsameple\autofacsameple\bin\Debug\autofacsameple.pdb
+I:\SourceControl\Projects\autofacsameple\autofacsameple\bin\Debug\Autofac.dll
+I:\SourceControl\Projects\autofacsameple\autofacsameple\bin\Debug\Autofac.xml
+I:\SourceControl\Projects\autofacsameple\autofacsameple\obj\Debug\autofacsameple.csprojResolveAssemblyReference.cache
+I:\SourceControl\Projects\autofacsameple\autofacsameple\obj\Debug\autofacsameple.exe
+I:\SourceControl\Projects\autofacsameple\autofacsameple\obj\Debug\autofacsameple.pdb
